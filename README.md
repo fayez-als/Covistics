@@ -5,6 +5,5 @@ https://fayez-als.shinyapps.io/covistics/
 # Credits
 The ideas and approach was adapted from the resources in Shiny Gallery.
 
-# Author 
-Fayez Alshehri
+
 
